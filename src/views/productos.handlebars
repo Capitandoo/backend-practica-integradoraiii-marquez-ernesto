@@ -1,0 +1,27 @@
+{{#if error.status}}
+  <p>{{error.message}}</p>
+{{/if}}
+<div>
+  <h1>¡¡Bienvenido!!</h1>
+  <div class="user_info">
+    {{#each userData}}
+      <p>Nombre: {{first_name}}</p>
+      <p>Apellido: {{last_name}}</p>
+      <p>Rol: {{role}}</p>
+    {{/each}}
+  </div>
+  <a href="/logout">Log Out</a>
+  <button onclick="location.href='/users/perfil'">TEST TOKEN</button>
+</div>
+<div>
+  {{#each productos}}
+    <h3>Title: {{title}}</h3>
+    <P>Descripción: {{description}}</P>
+    <p>Price: {{price}}</p>
+    <p>Thumbnail: {{thumbnail}}</p>
+    <p>Code: {{code}}</p>
+    <p>Stock: {{stock}}</p>
+    <p>Status: {{status}}</p>
+    <p>Category: {{category}}</p>
+  {{/each}}
+</div>

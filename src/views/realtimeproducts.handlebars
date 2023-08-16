@@ -1,0 +1,21 @@
+<h1>HOLA!!</h1>
+
+<form id="form">
+  <label>ID:</label><input type="text" name="id" id="id" />
+  <label>Title:</label><input type="text" name="title" id="title" />
+  <label>Description:</label><input type="text" name="name" id="description" />
+  <label>Price:</label><input type="text" name="price" id="price" />
+  <label>Thumbnail:</label><input type="text" name="price" id="thumbnail" />
+  <label>Code:</label><input type="text" name="code" id="code" />
+  <label>Stock:</label><input type="text" name="stock" id="stock" />
+  <label>Status:</label><input type="text" name="status" id="status" />
+  <label>Category:</label><input type="text" name="category" id="category" />
+  <input type="button" value="MOSTRAR" name="mostrar" id="mostrar" onclick=""/>
+  <input type="button" value="ADD" name="add" id="add" onclick=""/>
+  <input type="button" value="ERASE" name="erase" id="erase" onclick=""/>
+</form>
+
+<div id="productos"></div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="js/indexproducts.js"></script>

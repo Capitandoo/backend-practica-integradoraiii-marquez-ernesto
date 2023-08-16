@@ -1,0 +1,287 @@
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691500271,"first_name":"elisa","iat":1691499071,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691500271,"first_name":"elisa","iat":1691499071,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691500271,"first_name":"elisa","iat":1691499071,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691500271,"first_name":"elisa","iat":1691499071,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691500271,"first_name":"elisa","iat":1691499071,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691501899,"first_name":"elisa","iat":1691500699,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691501899,"first_name":"elisa","iat":1691500699,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691501899,"first_name":"elisa","iat":1691500699,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691619292,"first_name":"elisa","iat":1691618092,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771268,"first_name":"paloma","iat":1691770068,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691771815,"first_name":"paloma","iat":1691770615,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691773657,"first_name":"paloma","iat":1691772457,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"_message":"products validation failed","errors":{"category":{"kind":"required","message":"Path `category` is required.","name":"ValidatorError","path":"category","properties":{"message":"Path `category` is required.","path":"category","type":"required"}}},"level":"error","message":"products validation failed: category: Path `category` is required.","name":"ValidationError"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691775212,"first_name":"paloma","iat":1691774012,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691776447,"first_name":"paloma","iat":1691775247,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691776447,"first_name":"paloma","iat":1691775247,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691776447,"first_name":"paloma","iat":1691775247,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1691778621,"first_name":"elisa","iat":1691777421,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691778690,"first_name":"paloma","iat":1691777490,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691778690,"first_name":"paloma","iat":1691777490,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691779361,"first_name":"admin","iat":1691778161,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691779361,"first_name":"admin","iat":1691778161,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779514,"first_name":"paloma","iat":1691778314,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691779574,"first_name":"admin","iat":1691778374,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779691,"first_name":"paloma","iat":1691778491,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779691,"first_name":"paloma","iat":1691778491,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779691,"first_name":"paloma","iat":1691778491,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691779917,"first_name":"admin","iat":1691778717,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691779948,"first_name":"paloma","iat":1691778748,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781178,"first_name":"paloma","iat":1691779978,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781178,"first_name":"paloma","iat":1691779978,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781178,"first_name":"paloma","iat":1691779978,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781178,"first_name":"paloma","iat":1691779978,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691781593,"first_name":"admin","iat":1691780393,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781669,"first_name":"paloma","iat":1691780469,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d65cd327adab84af63d7d6","email":"sambasilio@mail.com","exp":1691781669,"first_name":"paloma","iat":1691780469,"last_name":"sambasilio","level":"info","message":"payload--->","role":"premium","userId":"64d65cd427adab84af63d7d8"}
+{"age":56,"cart":"64d67c7190d9788c7ddaab1a","email":"admin@mail.com","exp":1691781774,"first_name":"admin","iat":1691780574,"last_name":"admin","level":"info","message":"payload--->","role":"admin","userId":"64d67c7190d9788c7ddaab1c"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error undefined"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1692189335,"first_name":"elisa","iat":1692188135,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"level":"info","message":"Conectado a la base de datos de MongoDB"}
+{"level":"info","message":"Server iniciado en el puerto 8080"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1692189898,"first_name":"elisa","iat":1692188698,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1692189898,"first_name":"elisa","iat":1692188698,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1692190126,"first_name":"elisa","iat":1692188926,"last_name":"carrio","level":"info","message":"payload--->","role":"premium","userId":"64b6b9c29790ba99d110695e"}
+{"age":67,"cart":"64b6b9c29790ba99d110695c","email":"carrio@mail.com","exp":1692190232,"first_name":"elisa","iat":1692189032,"last_name":"carrio","level":"info","message":"payload--->","role":"user","userId":"64b6b9c29790ba99d110695e"}

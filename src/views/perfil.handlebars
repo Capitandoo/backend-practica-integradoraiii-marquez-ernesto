@@ -1,0 +1,15 @@
+  {{#if error.status}}
+    <p>{{error.message}}</p>
+  {{/if}}
+  <div>
+    <h1>Perfil</h1>
+    <div class="user_info">
+      {{#each userData}}
+      <p>First Name: {{this.first_name}}</p>
+      <p>Last Name: {{this.last_name}}</p>
+      <p>Email: {{this.email}}</p>
+      <p>Age: {{this.age}}</p>
+      {{/each}}
+    </div>
+    <a href="/logout">Log Out</a>
+  </div>

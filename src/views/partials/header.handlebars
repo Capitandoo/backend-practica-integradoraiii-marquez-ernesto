@@ -1,0 +1,17 @@
+<header>
+  <nav>
+    <ul class="nav">
+      <li><a class="link-item" href="/products">Products</a></li>
+      <li><a
+          class="link-item"
+          href="/carts/6461909ef9aaec0e50b82c2a"
+        >Cart</a></li>
+      <li><a class="link-item" href="/newproduct">New Product</a></li>
+      {{#if logued}}
+        <li><a class="link-item" href="/perfil">Perfil</a></li>
+      {{else}}
+        <li><a class="link-item" href="/login">Login</a></li>
+      {{/if}}
+    </ul>
+  </nav>
+</header>
