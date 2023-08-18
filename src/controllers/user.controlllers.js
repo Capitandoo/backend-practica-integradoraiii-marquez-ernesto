@@ -2,6 +2,8 @@ import Controllers from "./class.controllers.js";
 import UserService from "../services/user.services.js";
 import { createHash, createResponse, isValidPassword } from "../utils/utils.js";
 import { logger } from "../utils/logger.js";
+import { transporter } from "../services/email.services.js";
+import config from "../../config.js";
 
 const userService = new UserService();
 
@@ -85,15 +87,15 @@ export default class UserController extends Controllers {
     let { email, newpassword } = req.body;
     const user = await userService.getUser (email);
     if (user?.error)
-      return res.status(401).send({ error: `User not found` });
+      return res.status(401).send({ error: `Usuario no encotrado` });
     if (isValidPassword(newpassword, user))
-      return res.send({ error: `The new password must be different to the old` });
+      return res.send({ error: `La nueva clave debe ser distinta de la antigüa` });
     newpassword = createHash(newpassword);
     let response = await userService.changePassword({ email, newpassword });
     response?.error
       ? res.status(400).send({ error: response.error })
       : res.send({
-          success: `Password modified succesfully. Please go to login.`,
+          success: `Clave modificada correctamente.`,
         });
   };
 
@@ -101,15 +103,15 @@ export default class UserController extends Controllers {
     let { email } = req.body;
     const user = await userService.getUser(email);
     if (user?.error)
-      return res.status(401).send({ error: `User not found` });
+      return res.status(401).send({ error: `Usuario no encontrado` });
     user.recover_password = {
       id_url: uuidv4(),
       createTime: new Date(),
     };
     await userService.recoverPassword(user);
     user.recover_password.id_url;
-    let result = await transport.sendMail({
-      from: "Ernesto Marquez <micorre@gmail.com>",
+    let result = await transporter.sendMail({
+      from: config.EMAIL,
       to: email,
       subject: "Recuperar contraseña",
       html: `<a href="http://localhost:8080/resetpassword/${user.recover_password.id_url}">Recuperar Contrasena</a>`

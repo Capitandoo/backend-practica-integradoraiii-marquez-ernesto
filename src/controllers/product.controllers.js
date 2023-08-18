@@ -39,7 +39,7 @@ export default class ProductController extends Controllers {
     if(role === "premium") { 
       let response = await productService.getProduct(id);
       if(response.owner.toString() !== userId) {
-        return res.status(401).send({ error: 'You do not have permissions to perform this action'})
+        return res.status(401).send({ error: 'No tenes permisos para realizar esta acción'})
       }
     }
     let response = await productService.deleteProduct(id);

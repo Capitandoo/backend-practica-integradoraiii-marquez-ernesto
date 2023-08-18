@@ -45,7 +45,7 @@ export default class CartController extends Controllers {
       if (role === "premium") {
         const ownerProduct = await productService.getProduct (pid);
         if (ownerProduct.owner.toString() !== userId) {
-          return res.status(401).send({error:'You do not have permissions to perform this action'})
+          return res.status(401).send({error:'No tenes permisos para realizar esta operación'})
         }
       }
       await cartService.getCart (cid);
@@ -139,10 +139,10 @@ export default class CartController extends Controllers {
           return res.status(400).send({ newTicket });
         }
       } else {
-        return res.send({ response: "No products available." });
+        return res.send({ response: "Sin productos" });
       }
     } else {
-      return res.send({ response: "There are no products in the cart." });
+      return res.send({ response: "Sin productos en el carrito" });
     }
   };
 }

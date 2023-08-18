@@ -23,7 +23,7 @@ export default class Controllers {
       if (!item)
         createResponse(res, 404, {
           method: "getById",
-          error: "Item not found",
+          error: "Item no encontrado",
         });
       else createResponse(res, 200, item);
     } catch (error) {
@@ -38,7 +38,7 @@ export default class Controllers {
       if (!newItem)
         createResponse(res, 404, {
           method: "create",
-          error: "Validation error",
+          error: "Error de validación",
         });
       else createResponse(res, 200, newItem);
     } catch (error) {
@@ -54,7 +54,7 @@ export default class Controllers {
       if (!item)
         createResponse(res, 404, {
           method: "update",
-          error: "Item not found!",
+          error: "Item no encontrado!",
         });
       const itemUpd = await this.service.update(id, req.body);
       createResponse(res, 200, itemUpd);
@@ -71,10 +71,10 @@ export default class Controllers {
       if (!item)
         createResponse(res, 404, {
           method: "delete",
-          error: "Item not found!",
+          error: "Item no encontrado!",
         });
       await this.service.delete(id);
-      createResponse(res, 200, "Product deleted successfully!");
+      createResponse(res, 200, "Producto eliminado correctamente!");
     } catch (error) {
       logger.error(error);
       next(error.message);
