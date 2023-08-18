@@ -44,7 +44,7 @@ export default class CartController extends Controllers {
       const pid = req.params.pid;
       if (role === "premium") {
         const ownerProduct = await productService.getProduct (pid);
-        if (ownerProduct.owner.toString() !== userId) {
+        if (ownerProduct.owner.toString() === userId) {
           return res.status(401).send({error:'No tenes permisos para realizar esta operación'})
         }
       }
